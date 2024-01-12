@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to Rakesh Bank accounts related prod APIs"
   contactDetails:
     name: "Rene copo- Product Owner"
-    email: "rene@rakeshbank.com"
+    email: "{cipher}002e0950bfc46f4676b8cdcfe75801ecf47b158dbb72067a24763fa4f2ddf4e6e73c69710b93163efbcd62136f7dd136"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0385
