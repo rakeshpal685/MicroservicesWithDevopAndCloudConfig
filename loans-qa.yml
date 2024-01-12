@@ -5,8 +5,8 @@ build:
 loans:
   message: "Welcome to Rakesh Bank loans related QA APIs"
   contactDetails:
-    name: "Smitha Ray- QA Lead"
-    email: "smitha@rakeshbank.com"
+    name: "John Ray- QA Lead"
+    email: "john@rakeshbank.com"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
