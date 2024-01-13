@@ -5,8 +5,8 @@ build:
 cards:
   message: "Welcome to Rakesh Bank cards related prod APIs"
   contactDetails:
-    name: "Rene copo- Product Owner"
-    email: "rene@rakeshbank.com"
+    name: "angela copo- Product Owner"
+    email: "angela@rakeshbank.com"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
