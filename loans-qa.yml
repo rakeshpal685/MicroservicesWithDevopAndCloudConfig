@@ -5,8 +5,8 @@ build:
 loans:
   message: "Welcome to Rakesh Bank loans related QA APIs"
   contactDetails:
-    name: "Stive Dow- QA Lead"
-    email: "stive@rakeshbank.com"
+    name: "Rambo Dow- QA Lead"
+    email: "rambo@rakeshbank.com"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
